@@ -1,25 +1,24 @@
 # Projetos com Excel
-Projetos com Excel
 
 Bem-vindo ao repositório Projetos com Excel! Aqui você encontrará diversos arquivos desenvolvidos para estudo, prática e aprimoramento de habilidades no uso do Microsoft Excel. Os projetos incluem funcionalidades como automação de tarefas com macros, gestão de dados e análise de cenários. Este repositório é ideal para quem deseja explorar recursos intermediários e avançados do Excel.
 
-Estrutura do Repositório
+**Estrutura do Repositório**
 
 Arquivos Disponíveis:
 
-Controle de Almoxarifado com Macro
+**Controle de Almoxarifado com Macro**
 
-Formato: .xlsm
+  Formato: .xlsm
 
-Descrição: Este projeto automatiza o controle de um almoxarifado utilizando macros e VBA. Inclui funcionalidades como:
+  Descrição: Este projeto automatiza o controle de um almoxarifado utilizando macros e VBA. Inclui funcionalidades como:
 
-Cadastro de itens.
+    Cadastro de itens.
 
-Registro de entradas e saídas de estoque.
+    Registro de entradas e saídas de estoque.
 
-Atualização automática dos saldos.
+    Atualização automática dos saldos.
 
-Interface amigável com botões de ação.
+  Interface amigável com botões de ação.
 
 Controle de Estoque Simplificado
 
