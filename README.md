@@ -60,12 +60,6 @@ Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, siga es
    git checkout -b minha-modificacao
    ```
 3. Envie um pull request com suas alterações.
-
-## Autor
-
-Este repositório foi criado por [Samuel Leander](https://github.com/Samuel-Leander). Para dúvidas ou sugestões, entre em contato através do GitHub.
-
 ---
-
-Aproveite os projetos e boa exploração!
+Aproveite os projetos e bons estudos!
 
